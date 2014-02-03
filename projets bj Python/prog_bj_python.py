@@ -12,3 +12,4 @@ for x in range (1,11) :
 
 ## En tous cas, tout fonctionne correctement sous Eclipse 
 # dans le workspace D:/GIT_BJ_project
+# et en rajoute un autre
