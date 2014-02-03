@@ -15,3 +15,4 @@ for x in range (1,11) :
 # et je rajoute un autre commentaire a 19h42 le 3 fev 2014
 # et maintenant depuis Github.com, j en rajoute encore un.
 # depuis local 20h29 vers Github
+# et amintenant depuis Github 20h30
