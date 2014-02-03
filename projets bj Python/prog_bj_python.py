@@ -22,3 +22,4 @@ for x in range (1,11) :
 # et je remonte depuis Eclipse avec un push to upstream
 # equivalent a push a condition d avoir fait un commit avant
 # et je redescend vers Eclipse avec un pull depuis Eclipse a 21h02
+# et je redescend encore un coup a 21h12
