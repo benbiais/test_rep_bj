@@ -20,4 +20,5 @@ for x in range (1,11) :
 # je modifie a 20h44 pour redescendre vers eclipse
 #et encore a 20h57 pour redescendre dans Eclipse, depuis un pull Eclipse
 # et je remonte depuis Eclipse avec un push to upstream
+# equivalent a push a condition d avoir fait un commit avant
 # et je redescend vers Eclipse avec un pull depuis Eclipse a 21h02
