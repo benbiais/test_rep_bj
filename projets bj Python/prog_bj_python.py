@@ -19,3 +19,4 @@ for x in range (1,11) :
 # je repars vers Github a 20h40
 # je modifie a 20h44 pour redescendre vers eclipse
 #et encore a 20h57 pour redescendre dans Eclipse, depuis un pull Eclipse
+# et je remonte depuis Eclipse avec un push to upstream
