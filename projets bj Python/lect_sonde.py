@@ -1,4 +1,5 @@
-# lecture de la sonde de temperature
+# lecture de la sonde de temperature 
+# avec une autre ligne ajoutee pour test
 tfile = open("/sys/bus/w1/devices/28-00000485fa13/w1_slave")
 text = tfile.read()
 tfile.close()
