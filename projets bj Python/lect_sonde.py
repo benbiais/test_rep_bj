@@ -11,7 +11,7 @@ print (tdata)
 temperature = float(tdata[2:])
 print (temperature)
 temp = temperature / 1000
-print temp
+print (temp)
 # le programme est temporairement terminé
 
 
